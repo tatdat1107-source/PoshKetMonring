@@ -1,0 +1,72 @@
+body{
+	width: 100%;
+}
+
+*{
+	padding: 0;
+	margin: 0;
+}
+.menu{
+	color: gray;
+	height: 80px;
+	line-height: 80px;
+	font-size: 14px;
+	text-transform: uppercase;
+	letter-spacing: 5px;
+	font-weight: 700;
+}
+
+.content{
+	background-color: lightcyan;
+	color: black;
+	font-size: 30px;
+	padding: 50px 0;
+}
+
+
+.picture{
+	width: 200px;
+	padding: 20px 0;
+	border-radius: 50px;
+}
+
+.picture_cv{
+	text-align: center;
+}
+
+.content_cv{
+	font-size: 25px;
+	padding-top: 50px;
+	box-sizing: border-box;
+}
+
+.hobby_content{
+	padding-left: 45px;
+}
+
+#hobbies{
+	padding: 80px 0;
+}
+
+.heading{
+	text-align: center;
+	padding-bottom: 40px;
+}
+
+.text-justify{
+	text-align: justify;
+}
+
+#survey{
+	padding: 80px;
+	text-align: center;
+	background-color: lightcyan;
+}
+
+.show_btn{
+	margin-top: 50px;
+}
+.show_all{
+	margin-top: 50px;
+	text-align: center;
+}
